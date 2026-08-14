@@ -1,7 +1,7 @@
 {
-  "version": "18.13.56N6",
-  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N6/Oracle_by_NiBi_Technologies_18_13_56N6_Setup.exe",
-  "sha256": "3e139ce1932433edb770ffb5a93070ba3f7fc9c883131c204bc77d68f966b809",
-  "release_notes": "Oracle Windows Production v18.13.56N6. Fixes internal updater version reporting, adds a build-time version sync guard, and preserves the existing updater, BTC Predictor dispatch, and Live safety controls.",
+  "version": "18.13.56N7",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N7/Oracle_by_NiBi_Technologies_18_13_56N7_Setup.exe",
+  "sha256": "6f5f4a11f1b9c132d469e05dd9cec27152fe7831370967a3d5f6f7f1850aee59",
+  "release_notes": "Oracle Windows Production v18.13.56N7. Adds the BTC market-rollover fallback fix, corrects Live Performance to use the Live execution ledger, and improves whole-page scrolling including Profiles. Preserves the proven N6 updater, production launcher, BTC Predictor dispatch, packaging safeguards, and existing Live risk/pretrade controls.",
   "mandatory": false
 }
