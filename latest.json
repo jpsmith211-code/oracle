@@ -1,6 +1,7 @@
 {
-  "version": "18.13.56N4Z",
-  "installer_url": "",
-  "release_notes": "Verified packaged BTC Predictor service dispatch fix.",
+  "version": "18.13.56N5",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N5/Oracle_by_NiBi_Technologies_18_13_56N5_Setup.exe",
+  "sha256": "a58abdcefc6f91ecd05221e8b10615312b1bf416b7d12db4cad6511efd07c549",
+  "release_notes": "Oracle Windows Production v18.13.56N5. Adds GitHub-based Check for Updates and Download & Install Update, preserves SHA-256 verification, keeps the BTC Predictor packaged-service dispatch fix, and leaves Live risk/pretrade controls unchanged.",
   "mandatory": false
 }
