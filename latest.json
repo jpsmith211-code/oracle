@@ -1,7 +1,7 @@
 {
-  "version": "18.13.56N7",
-  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N7/Oracle_by_NiBi_Technologies_18_13_56N7_Setup.exe",
-  "sha256": "6f5f4a11f1b9c132d469e05dd9cec27152fe7831370967a3d5f6f7f1850aee59",
-  "release_notes": "Oracle Windows Production v18.13.56N7. Adds the BTC market-rollover fallback fix, corrects Live Performance to use the Live execution ledger, and improves whole-page scrolling including Profiles. Preserves the proven N6 updater, production launcher, BTC Predictor dispatch, packaging safeguards, and existing Live risk/pretrade controls.",
+  "version": "18.13.56N8",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N8/Oracle_by_NiBi_Technologies_18_13_56N8_Setup.exe",
+  "sha256": "674eaddf2ee29d7f0b165787aa46ab0e83946dcabd903efff91118976ee7b1cb",
+  "release_notes": "Oracle Windows Production 18.13.56N8. Adds the verified ETH replacement module for Paper and Live trading, including position tape, active-position banner, rollover settlement, and stop controls. Application Settings now uses one continuous page for reliable smaller-screen scrolling. Preserves the verified BTC module, laptop-portable runtime protections, and existing Live risk/pretrade safeguards. SOL remains disabled while its replacement module is pending.",
   "mandatory": false
 }
