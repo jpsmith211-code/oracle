@@ -1,7 +1,7 @@
 {
-  "version": "18.13.56N8",
-  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N8/Oracle_by_NiBi_Technologies_18_13_56N8_Setup.exe",
-  "sha256": "674eaddf2ee29d7f0b165787aa46ab0e83946dcabd903efff91118976ee7b1cb",
-  "release_notes": "Oracle Windows Production 18.13.56N8. Adds the verified ETH replacement module for Paper and Live trading, including position tape, active-position banner, rollover settlement, and stop controls. Application Settings now uses one continuous page for reliable smaller-screen scrolling. Preserves the verified BTC module, laptop-portable runtime protections, and existing Live risk/pretrade safeguards. SOL remains disabled while its replacement module is pending.",
+  "version": "18.13.56N10",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N10/Oracle_by_NiBi_Technologies_18_13_56N10_Setup.exe",
+  "sha256": "edd1f58ab89a8377ca9d6cf971603229b739064bdba32f9ccd721c4f11bec0cd",
+  "release_notes": "Oracle Windows Production 18.13.56N10. Corrects History so settled results, summary cards, and Profile Comparison follow Paper or Live mode; restores settled Live executions; and discloses the newest-200 display limit. Includes completed BTC, ETH, and SOL Paper/Live modules, real Performance timelines, the false-stale correction, Demo/Research retirement, laptop-portable paths, HTTPS certificates, windowless services, and unchanged Live safety controls.",
   "mandatory": false
 }
