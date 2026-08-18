@@ -1,7 +1,7 @@
 {
-  "version": "18.13.56N10",
-  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N10/Oracle_by_NiBi_Technologies_18_13_56N10_Setup.exe",
-  "sha256": "edd1f58ab89a8377ca9d6cf971603229b739064bdba32f9ccd721c4f11bec0cd",
-  "release_notes": "Oracle Windows Production 18.13.56N10. Corrects History so settled results, summary cards, and Profile Comparison follow Paper or Live mode; restores settled Live executions; and discloses the newest-200 display limit. Includes completed BTC, ETH, and SOL Paper/Live modules, real Performance timelines, the false-stale correction, Demo/Research retirement, laptop-portable paths, HTTPS certificates, windowless services, and unchanged Live safety controls.",
+  "version": "18.13.56N11",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N11/Oracle_by_NiBi_Technologies_18_13_56N11_Setup.exe",
+  "sha256": "100bd9e9a381f631dd5c1af4d7f435a3ed30f90b7f09411e3af04a7c884e2af9",
+  "release_notes": "Oracle Windows Production 18.13.56N11. Adds immediate confirmation for fully qualified Paper signals while Live retains rolling two-of-three confirmation; restores the 60% chosen-side floor and original crypto profiles; adds exchange-shard-aware Live routing; improves Profiles and Trade Warnings; and preserves portable paths, Demo/Research retirement, and Live safeguards.",
   "mandatory": false
 }
