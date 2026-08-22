@@ -1,7 +1,7 @@
 {
-  "version": "18.13.56N11",
-  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N11/Oracle_by_NiBi_Technologies_18_13_56N11_Setup.exe",
-  "sha256": "100bd9e9a381f631dd5c1af4d7f435a3ed30f90b7f09411e3af04a7c884e2af9",
-  "release_notes": "Oracle Windows Production 18.13.56N11. Adds immediate confirmation for fully qualified Paper signals while Live retains rolling two-of-three confirmation; restores the 60% chosen-side floor and original crypto profiles; adds exchange-shard-aware Live routing; improves Profiles and Trade Warnings; and preserves portable paths, Demo/Research retirement, and Live safeguards.",
+  "version": "18.13.56N12",
+  "installer_url": "https://github.com/jpsmith211-code/oracle/releases/download/v18.13.56N12/Oracle_by_NiBi_Technologies_18_13_56N12_Setup.exe",
+  "sha256": "0265477c43b42da685f5c59dcfc29fa84e93d81fffa15734a0a9ddf080b1730a",
+  "release_notes": "Oracle Windows Production 18.13.56N12. Adds per-market historical calibration collection for BTC, ETH, and SOL in shadow-only mode (0% trading influence), backfills historical observations and calibration bins, and improves settled-outcome collection across all observed markets. The original prediction model and trading behavior remain authoritative while the forward calibration sample continues to mature. Preserves the existing production safeguards, portable paths, profiles, and update flow.",
   "mandatory": false
 }
